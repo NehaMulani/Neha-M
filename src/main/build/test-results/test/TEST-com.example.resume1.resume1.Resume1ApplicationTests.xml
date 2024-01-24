@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.resume1.resume1.Resume1ApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-24T10:20:43" hostname="MGSWLP176" time="1.154">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.resume1.resume1.Resume1ApplicationTests" time="1.154"/>
+  <system-out><![CDATA[15:50:39.791 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.resume1.resume1.Resume1ApplicationTests]: Resume1ApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:50:40.017 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.resume1.resume1.Resume1Application for test class com.example.resume1.resume1.Resume1ApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.2)
+
+2024-01-24T15:50:40.807+05:30  INFO 2912 --- [    Test worker] c.e.r.resume1.Resume1ApplicationTests    : Starting Resume1ApplicationTests using Java 17 with PID 2912 (started by MGSUser in C:\Users\MGSUser\Downloads\resume1\resume1)
+2024-01-24T15:50:40.810+05:30  INFO 2912 --- [    Test worker] c.e.r.resume1.Resume1ApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-01-24T15:50:43.607+05:30  INFO 2912 --- [    Test worker] c.e.r.resume1.Resume1ApplicationTests    : Started Resume1ApplicationTests in 3.163 seconds (process running for 5.478)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
